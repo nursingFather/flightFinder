@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "jekX2HHizaH-TA4CXPiO80sdZn583zvb"
+API_KEY = "YOUR API KEY"
 TEQUILA_ENDPOINT = 'https://tequila-api.kiwi.com'
 night_dst_to = 30
 
